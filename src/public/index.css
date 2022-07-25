@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+.green {
+    color: green;
+}
+.gold {
+    color: gold;
+}
+.big {
+    font-size: 24px;
+}
+.profileImage {
+    size: 300px;
+}
